@@ -46,3 +46,6 @@ Thumbs.db
 *.log
 uploads/
 node_modules/
+
+# Heroku
+.slug-post-clean
