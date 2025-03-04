@@ -21,7 +21,8 @@ def create_app(env):
         "http://localhost:3000", 
         "http://127.0.0.1:3000",
         "https://genuine-fudge-049c1d.netlify.app",
-        "https://semantic-tiles3.netlify.app"
+        "https://semantic-tiles3.netlify.app",
+        "https://magical-sunshine-fa66db.netlify.app"
     ]}})
     
     # Configuration
