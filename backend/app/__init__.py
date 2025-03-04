@@ -20,7 +20,8 @@ def create_app(env):
     CORS(app, resources={r"/*": {"origins": [
         "http://localhost:3000", 
         "http://127.0.0.1:3000",
-        "https://genuine-fudge-049c1d.netlify.app"
+        "https://genuine-fudge-049c1d.netlify.app",
+        "https://semantic-tiles3.netlify.app"
     ]}})
     
     # Configuration
